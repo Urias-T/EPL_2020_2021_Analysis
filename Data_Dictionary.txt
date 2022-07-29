@@ -1,20 +1,39 @@
 Name: Name of Player.
+
 Club: Club to which player belongs.
+
 Nationality: Player's official Nationality.
+
 Position: Position(s) players play in.
+
 Age: Age of player as at time of collecting data.
+
 Matches: Total number of matches played by the player during the period of the season analysed.
+
 Starts: Total number of starts by the player during the period of the season analysed.
+
 Mins: Total number of minutes played by the player during the period of the season analysed.
+
 Goals: Total number of goals scored by player during the period of the season analysed.
+
 Assists: Total number of asssists by the player dring the period of the season analysed.
+
 Paases_Attempted: Total number of passes attempted (unsuccessful passes inclusive) attempted by the player during the period of the season analysed.
+
 Perc_Passes_Completed: Percentage of passes attempted that were completed by the player during the period of the season analysed.
+
 Penalty_Goals: Total number of goals scored from the penalty spot by the player during the period of the season analysed.
-Penalty_Attempted: Total number of penalties attempted (missed penalties inclusive) by the playeer during the period of the season analysed.
+
+Penalty_Attempted: Total number of penalties attempted (missed penalties inclusive) by the player during the period of the season analysed.
+
 xG: This is an abbreviation of the term "expected goals". It is a statistical measure of the quality of goalscoring chances and the likelihood of them being scored.
+
 xA: This is an abbreviation of the term "expected assists". It is a statistical measure of the likelihood that a given pass would become a goal.
+
 Yellow_Cards: Total number of yellow cards a player received in the English premier league during the period of the season analysed.
+
 Red_Cards: Total number of red cards a player received in the English premier league during the period of the season analysed.
-Mins_per_match: Ratio of total number of minutes played to toal number of matches played by player in the Englis period league for the period of the season analysed.
-Goals_per_match: Ratio of total number of goals to total number of matches played by player in the Englis period league for the period of the season analysed.
+
+Mins_per_match: Ratio of total number of minutes played to toal number of matches played by player in the English period league for the period of the season analysed.
+
+Goals_per_match: Ratio of total number of goals to total number of matches played by player in the English period league for the period of the season analysed.
