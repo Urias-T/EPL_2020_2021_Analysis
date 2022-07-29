@@ -17,4 +17,4 @@ xA: This is an abbreviation of the term "expected assists". It is a statistical 
 Yellow_Cards: Total number of yellow cards a player received in the English premier league during the period of the season analysed.
 Red_Cards: Total number of red cards a player received in the English premier league during the period of the season analysed.
 Mins_per_match: Ratio of total number of minutes played to toal number of matches played by player in the Englis period league for the period of the season analysed.
-Goals_per_match: Ratio of total number of goals to toal number of matches played by player in the Englis period league for the period of the season analysed.
+Goals_per_match: Ratio of total number of goals to total number of matches played by player in the Englis period league for the period of the season analysed.

@@ -65,12 +65,12 @@ also see from the coeelation map above that there is a 0.17 correlation score be
 **Red_Cards**: Total number of red cards a player received in the English premier league during the period of the season analysed.
 **Mins_per_match**: Ratio of total number of minutes played to toal number of matches played by player in the Englis period league for the period of the 
 season analysed.
-**Goals_per_match**: Ratio of total number of goals to toal number of matches played by player in the Englis period league for the period of the season analysed.
+**Goals_per_match**: Ratio of total number of goals to total number of matches played by player in the Englis period league for the period of the season analysed.
 
 ## Caveats:
 
-- Accuracy of analysis and the derived insights are only as accurate as the dataset would permit.
-- Triumph Urias, bears no liabity for decisions and/ or losses resulting from actions made based on this analysis.
+- Analysis and the derived insights are only as accurate as the dataset would permit.
+- Triumph Urias and all other contributors to this project bear no liabity for decisions and/ or losses resulting from actions made based on this analysis.
 
 ## Contributions:
 
